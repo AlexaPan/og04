@@ -1,12 +1,11 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-print("This is a main branch")
-=======
+<<<<<<< HEAD
+
 print("This is a main file")
->>>>>>> Stashed changes
-=======
-print("This is a main file")
->>>>>>> Stashed changes
 
 def main():
+=======
+print("This is a branch1")
+
+def branch1():
+>>>>>>> new_branch1
     pass

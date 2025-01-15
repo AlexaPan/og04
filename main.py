@@ -5,3 +5,7 @@ def main():
 
 def branch1():
     print("This is a branch1")
+
+def branch2():
+    print("This is a branch2")
+
